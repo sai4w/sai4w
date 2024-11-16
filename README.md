@@ -31,7 +31,7 @@ I'm a **Software Engineer** passionate about creating innovative solutions, inte
 
 ## 📈 GitHub Stats
 
-![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaidZhioua&show_icons=true&theme=radical)
+![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai4w&show_icons=true&theme=radical)
 
 ---
 
