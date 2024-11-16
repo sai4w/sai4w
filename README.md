@@ -1,23 +1,16 @@
 # 👋 Hi, I'm Saif Zhioua!
 
-I'm a **Software Engineer** passionate about creating innovative solutions, interactive technologies, and seamless user experiences. I specialize in **software development**, **event technologies**, and **automation of repetitive tasks** to boost productivity and efficiency.
-
----
-
-## 🌟 About Me
-
-- 🚀 I enjoy working on **cutting-edge technologies** and crafting **user-focused solutions**.
-- 🤖 Skilled at automating **repetitive tasks** to save time and optimize workflows.
-- 💡 Always exploring new tools and methodologies to improve efficiency and creativity.
-- 📚 Lifelong learner and enthusiast for all things **tech**, **design**, and **innovation**.
+I'm a **Software Engineer** specializing in **software development**, **event technologies**, and **workflow automation**. I create scalable, user-focused solutions that blend innovation and efficiency.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** [List your main languages, e.g., Python, JavaScript, C#]
-- **Frameworks/Tools:** [E.g., Unity, React, Node.js, Selenium, etc.]
-- **Other Skills:** Automation, Backend Development, APIs, Game Development
+- **Languages:** Python, JavaScript, C#, HTML/CSS
+- **Frameworks:** Django, Flask, React.js, Node.js
+- **Tools:** Unity, Docker, Git, Firebase, Selenium
+- **Event Tech:** Resolume Arena, DMX Controls, OSC Protocol
+- **Specialties:** Automation, APIs, Backend Development, Game Development
 
 ---
 
@@ -25,20 +18,15 @@ I'm a **Software Engineer** passionate about creating innovative solutions, inte
 
 - **GitHub:** [github.com/SaifZhioua](https://github.com/sai4w)
 - **LinkedIn:** [linkedin.com/in/SaifZhioua](https://tn.linkedin.com/in/saif-zhioua-604bb6227)
-- **Personal Website:** [saifzhioua.com](https://www.saifzhioua.com) *(Coming Soon!)*
+- **Website:** [saifzhioua.com](https://www.saifzhioua.com) *(Coming Soon!)*
 
 ---
 
 ## 📈 GitHub Stats
 
-![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai4w&show_icons=true&theme=radical)
+![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai4w&show_icons=true&theme=radical)
 
 ---
 
-## 💡 Fun Fact
-
-I love solving complex problems, automating tedious workflows, and turning ideas into reality—whether it's a robust application or an immersive experience for events!
-
----
-
-Thanks for stopping by! Feel free to check out my repositories or connect with me.
+### 🚀 Let’s Collaborate!
+I help businesses solve challenges, automate workflows, and build engaging user experiences. Let’s create something amazing together!
