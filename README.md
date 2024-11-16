@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Said Zhioua!
+# 👋 Hi, I'm Saif Zhioua!
 
 I'm a **Software Engineer** passionate about creating innovative solutions, interactive technologies, and seamless user experiences. I specialize in **software development**, **event technologies**, and **automation of repetitive tasks** to boost productivity and efficiency.
 
@@ -23,9 +23,9 @@ I'm a **Software Engineer** passionate about creating innovative solutions, inte
 
 ## 🌐 Connect with Me
 
-- **GitHub:** [github.com/SaidZhioua](https://github.com/SaidZhioua)
-- **LinkedIn:** [linkedin.com/in/SaidZhioua](https://www.linkedin.com/in/SaidZhioua)
-- **Personal Website:** [saidzhioua.com](https://www.saidzhioua.com) *(Coming Soon!)*
+- **GitHub:** [github.com/SaifZhioua](https://github.com/sai4w)
+- **LinkedIn:** [linkedin.com/in/SaifZhioua](https://tn.linkedin.com/in/saif-zhioua-604bb6227)
+- **Personal Website:** [saifzhioua.com](https://www.saifzhioua.com) *(Coming Soon!)*
 
 ---
 
